@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/samuelcolvin/num-bigint/commit/14ced94a43038ddb97896e94973ac2b1056f7a46",
+  "@type": "git:Commit",
+  "git:hexsha": "14ced94a43038ddb97896e94973ac2b1056f7a46",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/samuelcolvin/num-bigint"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/14ced94a43038ddb97896e94973ac2b1056f7a46.nq.gz",
+      "repolex:graphFileSize": 10402
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 738123
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 413
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-11T08:36:39.404596+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
