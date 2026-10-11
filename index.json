@@ -1,0 +1,11 @@
+{
+  "org": "samuelcolvin",
+  "repo": "num-bigint",
+  "versions": [
+    {
+      "commit": "14ced94a43038ddb97896e94973ac2b1056f7a46",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:39:39.155897+00:00"
+    }
+  ]
+}
